@@ -1,6 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blogger's Paradise
 
-## Getting Started
+### by Zachary Green
+
+#
+
+---
+
+### Project Details
+
+---
+
+This project was made under the tutorship of Sonny Songha. This application is a blog mockup using Sanity.io to handle the backend of the project.
+
+#
+
+---
+
+### Technologies Used
+
+---
+
+- `HTML`
+- `JavaScript`
+- `TypeScript`
+- `Next.js`
+- `Sanity.io`
+- `React-Hook-Form`
+- `React-Portable-Text`
+- `JsDoc`
+- `Tailwind CSS`
+
+#
+
+---
+
+### Known Bugs
+
+---
+
+There are no known bugs in the application at this time. If you encounter any please feel free to reach out to me.
+
+#
+
+---
+
+### Getting Started
+
+---
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -32,3 +80,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+#
+
+---
+
+### Licence Information
+
+---
+
+This project was originally developed by Sonny Sangha and the team at http://www.papareact.com .
+
+#
+
+This project's intention was to be used to further expand my knowledge of TypeScript and learn how to deploy a website.
+
+#
+
+All Rights belong to Sonny Sangha.
+
+#
+
+Zachary Green 2022
